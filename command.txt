@@ -1,0 +1,2 @@
+ffmpeg -ss 15 -t 25 -i MySaveVideo_new.avi -vf scale=iw/5:ih/5 -b:v 200k -r 10 o.gif
+
