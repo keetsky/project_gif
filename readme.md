@@ -1,6 +1,12 @@
 
 
+#### LIP
 
+![](LIP_vid.png)
+
+![lip_track2_rank2](lip_track2_rank2.png)
+
+![lip_track2_rank3](lip_track2_rank3.png)
 
 #### 虚拟主播
 
