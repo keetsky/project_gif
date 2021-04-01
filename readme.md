@@ -8,6 +8,10 @@
 
 ![lip_track2_rank3](lip_track2_rank3.png)
 
+#### 专利
+
+![专利](专利.jpg)
+
 #### 虚拟主播
 
 ![wav2lip](fs_vid2vid.gif)
